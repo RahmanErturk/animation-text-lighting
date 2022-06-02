@@ -24,8 +24,7 @@ div {
     color: #484848;
     font-size: 80px;
     font-family: 'Lato', sans-serif;
-    animation: lighting 1.4s linear infinite;
-    animation-delay: 1.2s;
+    animation: lighting 1.5gis linear infinite;
 }
 
 
