@@ -25,6 +25,7 @@ div {
     font-size: 80px;
     font-family: 'Lato', sans-serif;
     animation: lighting 1.4s linear infinite;
+    animation-delay: 1.2s;
 }
 
 
@@ -81,6 +82,8 @@ div {
     }
     100% {
         color: #fff900; 
-        text-shadow: 1px 1px 20px #ff6c00;
+        text-shadow: 
+            3px 3px 20px #ff6c00,
+            -3px -3px 20px #ff6c00;
     }
 }
